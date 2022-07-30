@@ -1,0 +1,31 @@
+{
+	"storyName": "Are You Guys Home... Hello?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Death Toll",
+			"ringcam",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"ringcam",
+		""
+	],
+	"weekName": "hand"
+}
