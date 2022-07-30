@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ringcam idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ringcam left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ringcam right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ringcam down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ringcam up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ring Cam Mario",
+	"position": [
+		-100,
+		-80
+	],
+	"healthicon": "ringcam",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		16
+	],
+	"camera_position": [
+		-490,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
