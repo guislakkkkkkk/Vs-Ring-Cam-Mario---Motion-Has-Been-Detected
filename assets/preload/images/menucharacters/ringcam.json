@@ -1,0 +1,10 @@
+{
+	"idle_anim": "story menu mario idle",
+	"confirm_anim": "story menu mario confirm",
+	"position": [
+		720,
+		20
+	],
+	"scale": 1,
+	"image": "RCM_Menu"
+}
